@@ -1,0 +1,17 @@
+customer
+Praveen kumar:1988-03-15:33:Male:Software Developer:900000:No major medical history:Thanjavur:9876543210:Praveen.kumar@example.com
+Swathi shree:1992-09-28:29:Female:Doctor:1200000:No chronic illnesses:coimbatore:9876543211:swathi@example.com
+sree raam:1985-12-05:36:Male:Lawyer:1000000:High blood pressure:papanasam:9876543212:amit.raam@example.com
+prasanna:1980-05-18:41:Female:Marketing Manager:800000:Asthma:kumbakonam:9876543213:prasanna.gupta@example.com
+dhivya:1990-11-20:31:Male:Teacher:600000:None:thiruvarur:9876543214:dhivya.singh@example.com
+Priya dharshini:1987-07-08:34:Female:Nurse:750000:Diabetes:Thanjavur:9876543215:dharshini.priya@example.com
+Sneha:1994-08-15:27:Female:Accountant:850000:None:chennai:9876543217:sneha.desai@example.com
+
+ Policy
+101:Life Insurance Plan:Life Insurance:30:0.05:10000000
+102:Health Insurance Plan:Health Insurance:25:0.03:5000000
+103:Vehicle Insurance Plan:Vehicle Insurance:10:0.08:2000000
+104:Home Insurance Plan:Home Insurance:20:0.06:3000000
+105:Travel Insurance Plan:Travel Insurance:15:0.04:1500000
+ 
+
